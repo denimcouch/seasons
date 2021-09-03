@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Seasons
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Seasons is a fun mini project meant to keep my React skills sharp.  
+
+It utilizes both class and functional components, and utilizes some the Geolocation API to determine which hemisphere a user is currently in.
+
+## Stretch Goals
+
+1. Implement Weather API to provide forecast
+2. Display location to user
 
 ## Available Scripts
 
